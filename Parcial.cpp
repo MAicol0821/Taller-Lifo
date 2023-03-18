@@ -223,3 +223,8 @@ int main(){
 
         }while(opc!=6);
   }
+  
+  
+  //Kris michael torres bonilla
+  // Erick kamila garces reyes 
+  // Adriana Lucia
